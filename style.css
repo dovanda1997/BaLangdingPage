@@ -327,6 +327,9 @@ button {
   #navbar {
     display: none;
   }
+  .baner-text {
+    padding: 0px 0;
+  }
   .container {
     width: 1000px;
     margin: 0 auto;
@@ -351,7 +354,7 @@ button {
     gap: 40px;
   }
   .pading-top-70 {
-    padding-top: 50px;
+    padding-top: 30px;
   }
   .heading-category p {
     font-size: 36px;
@@ -395,6 +398,9 @@ button {
   #navbar {
     width: 100%;
     text-align: center;
+  }
+  .baner-text {
+    padding: 30px 0;
   }
   .nav-menu {
     display: none;
@@ -472,6 +478,9 @@ button {
   }
   .baner {
     height: 700px;
+  }
+  .baner-text {
+    padding: 30px 0;
   }
   .flex-direction {
     gap: 10px;
